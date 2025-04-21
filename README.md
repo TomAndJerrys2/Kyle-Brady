@@ -17,7 +17,7 @@ Hi, I'm Kyle!<br><br>🔭 Currently in the deep end of Low-Level Programming wit
 ![](https://github-profile-trophy.vercel.app/?username=TomAndJerrys2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/KyleBradyDev) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KyleBradyDev) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
